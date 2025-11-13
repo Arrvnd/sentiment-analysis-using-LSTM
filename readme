@@ -1,1 +1,5 @@
+# 📌 YouTube Comment Sentiment Analysis (End-to-End ML Project)
+# 🚀 Web Scraping · 🧹 Preprocessing · 🧠 LSTM Model · 📊 Prediction · 🌐 Hugging Fcae Deployment
 
+This project performs end-to-end sentiment analysis on YouTube comments.
+It scrapes comments from any YouTube video, cleans and preprocesses the text, converts them to vector representations, trains an LSTM deep learning model, and finally hosts a Streamlit web app for realtime predictions.
