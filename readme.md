@@ -4,6 +4,8 @@
 This project performs end-to-end sentiment analysis on YouTube comments.
 It scrapes comments from any YouTube video, cleans and preprocesses the text, converts them to vector representations, trains an LSTM deep learning model, and finally hosts a Streamlit web app for realtime predictions.
 
+
+# Hugging Face link :: https://huggingface.co/spaces/Arrvind/Sentiment_Prediction_App
 ## ✨ Project Features
 
 ✔ Scrape YouTube comments using YouTube Data API    
