@@ -6,17 +6,18 @@ It scrapes comments from any YouTube video, cleans and preprocesses the text, co
 
 ## ✨ Project Features
 
-✔ Scrape YouTube comments using YouTube Data API
-✔ Full text preprocessing pipeline (cleaning → tokenizing → lemmatizing)
-✔ Generate spaCy embeddings or tokenizer sequences
-✔ Build & train an LSTM deep learning model
-✔ Save model + tokenizer using pickle
-✔ Deployable Streamlit app for real-time sentiment prediction
-✔ Three sentiment classes: Positive, Neutral, Negative
+✔ Scrape YouTube comments using YouTube Data API    
+✔ Full text preprocessing pipeline (cleaning → tokenizing → lemmatizing)     
+✔ Generate spaCy embeddings or tokenizer sequences      
+✔ Build & train an LSTM deep learning model       
+✔ Save model + tokenizer using pickle        
+✔ Deployable Streamlit app for real-time sentiment prediction      
+✔ Three sentiment classes: Positive, Neutral, Negative        
 
 # 🧱 Tech Stack
 
-Languages: Python
+Languages: Python  
+
 Libraries Used:
 
 TensorFlow / Keras (LSTM Model)
