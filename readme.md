@@ -1,4 +1,4 @@
-# 📌 YouTube Comment Sentiment Analysis (End-to-End ML Project)
+# 📌 YouTube Comment Sentiment Analysis (End-to-End DL Project)
 ## 🚀 Web Scraping · 🧹 Preprocessing · 🧠 LSTM Model · 📊 Prediction · 🌐 Hugging Fcae Deployment
 
 This project performs end-to-end sentiment analysis on YouTube comments.
