@@ -30,7 +30,7 @@ TextBlob (Auto-Labeling)
 
 NumPy, Pandas
 
-BeautifulSoup / API for web scraping
+API for web scraping
 
 Streamlit
 
